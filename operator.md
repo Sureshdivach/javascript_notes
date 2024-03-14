@@ -89,3 +89,39 @@ ans.:-
                         var b = 3;
                         var c = a % b;
                         console.log(c);               // Output: 1
+
+
+<------------------------------------ Logical Operators----------------------------------------------->
+
+que.01  What is the result of 'true && false'?
+Ans.:-  false.
+
+que.02:-  What is the result of "true||false"?
+Ans:-   True.
+
+Que.03:- What is the result of '(5>3)&& (10<20)'?
+Ans:-   True.
+
+Que.04:- What is the result of '(10===10) || (5>8)'?
+Ans:- True.
+
+Que.05:- What is the result of '(true && false) || True'?
+Ans:-    True.
+
+Que.06:- What is the result of ' false && (true || false) '?
+Ans:-    False
+
+Que.07:- What is the result of '(5<=5) && (false ||true)'?
+Ans:- True.
+
+Que.08:- What is the result of 'true && true && false'?
+Ans:- False.
+
+Que.09:- What is the result of 'false || false || true'?
+Ans:- True.
+
+Que.10:-  What is the result of '(10 >= 5) && (3 < 2) || (8 === 8)'?
+Ans:-  True.
+
+Que.11:- Given a = 27 and b = 14, what is the result of (a % 10 === 7 && b % 5 === 0) || (a * b > 300 && b - a <5)?
+Ans:- True.
